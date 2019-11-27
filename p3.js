@@ -17,8 +17,6 @@ const {
   utils: { toHex, toWei }
 } = web3;
 
-//solcjs --bin --abi NotarizedDocument.sol
-
 const promiseWrapper = promise =>
   promise
     .then(data => {
