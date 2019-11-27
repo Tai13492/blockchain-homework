@@ -3,7 +3,7 @@ This repository is part of a homework submission of a blockchain course
 
 # How to duplicate results
 0. Make sure you have node and python installed on your machine
-1. run ```npm install```
+1. run ```npm install -g solc && npm install```
 2. register an account at metamask and infura.io
 3. create a .env file, see an example at .env.example
 3. replace WEB3_PROVIDER in .env with an infura generated url, e.g. https://ropsten.infura.io/v3/loremipsum
