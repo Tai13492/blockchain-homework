@@ -1,0 +1,14 @@
+{
+  "name": "smart-contract",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Tai Tantipiwatanaskul",
+  "license": "MIT",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "dotenv": "^8.2.0",
+    "ethereumjs-tx": "^2.1.1",
+    "mz": "^2.7.0",
+    "web3": "^1.2.4"
+  }
+}
